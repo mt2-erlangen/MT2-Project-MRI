@@ -1,0 +1,14 @@
+# Build output
+build/
+out/
+
+# Gradle cache
+.gradle/
+
+# OS files
+.DS_Store
+
+# IntelliJ — ignore everything except the shared run configuration
+.idea/
+!.idea/runConfigurations/
+!.idea/runConfigurations/Project.xml
