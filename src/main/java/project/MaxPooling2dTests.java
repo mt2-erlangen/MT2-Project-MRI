@@ -6,7 +6,7 @@
 package project;
 import mt.Image;
 
-public class test_MaxPooling2d {
+public class MaxPooling2dTests {
 
     public static void main(String[] args) {
 
